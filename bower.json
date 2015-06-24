@@ -1,0 +1,12 @@
+{
+  "name": "js-slot",
+  "version": "0.0.0",
+  "authors": [
+    "nlundquist <nlundqu@gmail.com>"
+  ],
+  "description": "A simple JS web slot machine",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
